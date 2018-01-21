@@ -1,0 +1,1 @@
+"bento/centos-6.7"
